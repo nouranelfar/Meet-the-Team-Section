@@ -185,7 +185,7 @@ main{
 }
 /*contianer style*/
 .container{
-  margin-top: 3%;
+  margin-top: 5%;
   grid-template-rows: repeat(2,288px);
   grid-template-columns: repeat(4,284);
 }
